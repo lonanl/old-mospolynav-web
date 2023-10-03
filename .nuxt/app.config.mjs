@@ -1,5 +1,5 @@
 
-import { defuFn } from 'C:/Users/llonan/Desktop/politechguide-front/node_modules/defu/dist/defu.mjs'
+import { defuFn } from 'C:/Users/llonan/Desktop/old-mospolynav-web/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 
