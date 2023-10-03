@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdaf62af-a27f-4755-a590-c06ba4da29dc" name="Changes" comment="- попытка 1">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/build-and-deploy.yml" afterDir="false" />
-    </list>
+    <list default="true" id="bdaf62af-a27f-4755-a590-c06ba4da29dc" name="Changes" comment="- попытка 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +74,7 @@
       <workItem from="1696364203623" duration="707000" />
       <workItem from="1696364927212" duration="439000" />
       <workItem from="1696365728470" duration="14000" />
-      <workItem from="1696366291957" duration="624000" />
+      <workItem from="1696366291957" duration="816000" />
     </task>
     <task id="LOCAL-00001" summary="- Старый проект">
       <option name="closed" value="true" />
