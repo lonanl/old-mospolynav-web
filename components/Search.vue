@@ -23,7 +23,7 @@
 </template>
 
 <script>
-import infoData from '/_nuxt/assets/dictionaries/aud_info.json';
+import infoData from '/assets/dictionaries/aud_info.json';
 
 export default {
   data() {
