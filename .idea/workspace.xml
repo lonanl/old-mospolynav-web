@@ -5,8 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdaf62af-a27f-4755-a590-c06ba4da29dc" name="Changes" comment="- попытка 1">
-      <change beforePath="$PROJECT_DIR$/components/AudInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/AudInfo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Search.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/200.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/FloorsButtons.aba633a9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/HeadButtons.530614cb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/NavigationCard.94d432d3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/ScaleButtons.98a72453.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/Sidebar.dd1ff75a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/about.4d581f3f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/accord.f11b52bd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/entry.e85cd395.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/error-404.9e251674.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/error-500.c2904bfa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/error-component.ce161539.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/index.32b95b23.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/map.03c48970.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/map.7a3004ea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/mobile.80517916.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/nuxt-link.39baf9ff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/scalePage.40e8b851.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_nuxt/start.cbac7bb0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/_payload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/about/_payload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/about/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/accord/_payload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/accord/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/map/_payload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/map/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/mobile/_payload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/mobile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/scalePage/_payload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/scalePage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/start/_payload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.output/public/start/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dev/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dev/index.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/server.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/server.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/nuxt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/types/nitro-routes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/types/nitro-routes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/types/plugins.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/types/plugins.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,23 +89,24 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/llonan/Desktop/old-mospolynav-web&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\llonan\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/llonan/Desktop/old-mospolynav-web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "ts.external.directory.path": "C:\\Users\\llonan\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +123,9 @@
       <workItem from="1696364203623" duration="707000" />
       <workItem from="1696364927212" duration="439000" />
       <workItem from="1696365728470" duration="14000" />
-      <workItem from="1696366291957" duration="1343000" />
+      <workItem from="1696366291957" duration="1938000" />
+      <workItem from="1696368283224" duration="174000" />
+      <workItem from="1696368472387" duration="877000" />
     </task>
     <task id="LOCAL-00001" summary="- Старый проект">
       <option name="closed" value="true" />
@@ -100,6 +148,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/nuxt.config.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -113,6 +166,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="- Старый проект" />
     <MESSAGE value="- попытка 1" />
     <option name="LAST_COMMIT_MESSAGE" value="- попытка 1" />
